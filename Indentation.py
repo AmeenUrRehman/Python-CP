@@ -11,4 +11,4 @@ name = "NotSame"
 if name == "Same":
     print("Name is Same")
 else:
-    print("Name is NotSame")
+    print("Name is NotSame !! wrong")
